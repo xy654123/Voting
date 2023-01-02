@@ -163,6 +163,9 @@ order by cnt desc
 ![image](https://user-images.githubusercontent.com/96267331/210191961-e9024866-65bd-48c8-96b8-06918b136a22.png)<br>
 결과 창과 함께 테이블이 업데이트 되어준다.<br>
 ![image](https://user-images.githubusercontent.com/96267331/210191976-f6b2f766-25f8-4ef0-8d37-c1777a85113d.png)<br>
-투표검수조회페이즈를 보면 제1투표장을 이용했기 때문에 값이 추가된것을 볼 수 있다.
+투표검수조회페이즈를 보면 제1투표장을 이용했기 때문에 값이 추가된것을 볼 수 있다.<br>
+![image](https://user-images.githubusercontent.com/96267331/210192041-d1b2db49-091e-45e3-8314-7d4146dbade9.png)<br>
+그리고 5번째 후보를 투표했기때문에 후보 5번째인 최후보 총 투표건수가 1 증가한것을 볼 수 있다.
+
 
 
